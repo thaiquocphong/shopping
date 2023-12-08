@@ -121,7 +121,7 @@ li a:hover::after {
     flex-direction: column;
     padding-left: 50px;
     background-color: var(--back);
-    background-image: url(img/background.png);
+    background-image: url(/img/background.png);
     background-position: bottom 0px right 30px;
     background-repeat: no-repeat;
     background-size: contain;
